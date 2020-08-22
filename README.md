@@ -5,3 +5,7 @@ I have divided the entire work into different projects. Those will be gradually 
 1) Flutter login app
 2) Scan QR Code after Login
 3) Match the scanned QR Code to organization's database and fetch relevant more details of the code.
+
+ToDo:
+1) Upload the source files
+2) Write descriptive tutorials
